@@ -362,3 +362,15 @@ p.paragraph {
     top: -1490px;
   }
 }
+
+@media only screen and (max-width: 450px) {
+  .phone {
+    left: 35px;
+  }
+  .phone-top-white {
+    left: 105px;
+  }
+  h1 {
+    left: 50px;
+  }
+}
